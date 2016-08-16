@@ -22,6 +22,10 @@ saludo.capitalize().size()
                    +-- y acá, otra referencia implicita a "HOLA"
 ```
 
+
+<img src="https://github.com/pdep-utn/mumuki-guia-wollok-referencias/raw/master/assets/referenciaImplicita.png" width="350"/>
+
+
 Por eso, si te interesa hacer luego más cosas con ese objeto, tenés que crear una referencia explícita al mismo :wink:
 
 > Probá las siguientes consultas en la consola y pensá en dónde hay referencias implícitas :
