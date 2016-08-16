@@ -1,7 +1,22 @@
-Revisemos la sintaxis: 
+_Repasemos la sintaxis :eyes:_
 
-...objeto mensaje...
+Hasta ahora sabíamos que para los mensajes que no eran operadores, la sintaxis fundamental de un envío de mensaje era la siguiente: 
 
-pero si lo vemos con mas detalle:
+```wollok
+unNumero.squareRoot()
+  ^       ^
+  |       +--- mensaje
+  +----------- objeto
+```
 
-...referncia... mensaje
+Sin embargo, si la analizamos con más detalle, ahora sabemos que en realidad es la siguiente: 
+
+
+```wollok
+unNumero.squareRoot()
+  ^       ^
+  |       +--- mensaje
+  +----------- referencia -> ¡que apunta a un objeto!
+```
+
+> Veamos si se entiende. 
