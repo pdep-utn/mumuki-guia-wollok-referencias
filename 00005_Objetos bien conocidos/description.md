@@ -16,7 +16,8 @@ A objetos como `alfredo` se los conocen como _objetos bien conocidos_: cuando lo
 
 ¡Adiviná! Esas etiquetas también son referencias :tada:. Y son globales, es decir que cualquier objeto otro objeto o programa puede utilizarla. 
 
-> Veamos si va quedando claro. Declará un objeto `abuelaDeAlfredo` que entienda un mensaje `alimentarNieto()`, que lo haga comer 2 veces: primero con 2000 calorias, y luego con 1000 calorías; ¡el postre no podía faltar! :cake:.  
+> Veamos si va quedando claro. Declará un objeto `abuelaDeAlfredo` que entienda un mensaje `alimentarNieto()`, que haga comer 2 veces a todos sus nietos: primero con 2000 calorias, y luego con 1000 calorías; ¡el postre no podía faltar! :cake:.  
 > 
+> Además, la abuela tiene que tenés un _setter_ `nieto(unoNieto)`, que permita configurar a su nieto. 
 
 
