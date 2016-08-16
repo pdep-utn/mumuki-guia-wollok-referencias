@@ -9,6 +9,9 @@ var saludo = "hola"
 lo que estamos haciendo es _crear una referencia_ que _apunta_ al objeto `"hola"`.
 
 
+<img src="https://github.com/pdep-utn/mumuki-guia-wollok-referencias/raw/master/assets/unaReferencia.png" width="350"/>
+
+
 Y cuando le enviamos un mensaje: 
 
 ```wollok
