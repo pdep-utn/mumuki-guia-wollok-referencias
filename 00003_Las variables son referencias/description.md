@@ -6,7 +6,7 @@ Sucede que en realidad las cosas son un poco más complejas, y no conocemos a lo
 var saludo = "hola"
 ```
 
-lo que estamos haciendo es _crear una referencia_ que _apunta_ al objeto `"hola"`.
+lo que estamos haciendo es _crear una referencia_ que _apunta_ al objeto `"hola"`, que representamos mediante una flechita:
 
 
 <img src="https://github.com/pdep-utn/mumuki-guia-wollok-referencias/raw/master/assets/unaReferencia.png" width="350"/>
