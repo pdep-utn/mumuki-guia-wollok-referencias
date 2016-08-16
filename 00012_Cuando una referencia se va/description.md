@@ -1,1 +1,3 @@
 TODO
+
+...hablar del GC..
