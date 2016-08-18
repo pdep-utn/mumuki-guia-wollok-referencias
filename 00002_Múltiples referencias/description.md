@@ -9,9 +9,9 @@ Como vemos, estamos asignado `otroSaludo` a `despedida`. ¿Qué significa esto? 
 
 > ¡Averigualo vos mismo! **Declará las variables anteriores** y realizá las siguientes consultas:
 >
-> `ム "buen día" === "buen día"`
-> `ム despedida === "buen día"`
-> `ム otroSaludo === otroSaludo`
-> `ム despedida === otroSaludo` 
+> * `ム "buen día" === "buen día"`
+> * `ム despedida === "buen día"`
+> * `ム otroSaludo === otroSaludo`
+> * `ム despedida === otroSaludo` 
 > 
 > ¡Y sacá tus conclusiones!
