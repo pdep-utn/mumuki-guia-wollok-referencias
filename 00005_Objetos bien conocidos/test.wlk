@@ -1,16 +1,16 @@
-test "existe abuelaDeAlfredo" {
-  abuelaDeAlfredo
+test "existe abuelaClotilde" {
+  abuelaClotilde
 }
 
-test "abuelaDeAlfredo.alimentarNieto() incrementa lo engorda en 1.5" {
-  abuelaDeAlfredo.nieto(alfredo)
-  abuelaDeAlfredo.alimentarNieto()
+test "abuelaClotilde.alimentarNieto() incrementa lo engorda en 1.5" {
+  abuelaClotilde.nieto(alfredo)
+  abuelaClotilde.alimentarNieto()
   assert.equals(71.5, alfredo.peso())
 }
 
 
-test "abuelaDeAlfredo.alimentarNieto() lo alimenta dos veces" {
-  abuelaDeAlfredo.nieto(alfredo)
-  abuelaDeAlfredo.alimentarNieto()
+test "abuelaClotilde.alimentarNieto() lo alimenta dos veces" {
+  abuelaClotilde.nieto(alfredo)
+  abuelaClotilde.alimentarNieto()
   assert.equals(2, alfredo.cantidadDeLlamadas())
 }

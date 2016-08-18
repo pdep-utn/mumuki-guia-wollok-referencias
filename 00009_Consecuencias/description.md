@@ -1,6 +1,7 @@
-TODO
+Ah, pero `alfredo` también tiene una novia: 
 
-...introducir a la novia de alfredo, que ve los cambios de peso. 
+```wollok
+object noviaDeAlfredo {
+   var novio
 
-
-...cerrar mostrando un diagrama de objetos....
+}

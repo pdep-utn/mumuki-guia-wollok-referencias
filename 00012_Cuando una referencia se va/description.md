@@ -1,3 +1,4 @@
-TODO
+Supongamos el siguiente programa:
 
-...hablar del GC..
+```wollok
+var 
