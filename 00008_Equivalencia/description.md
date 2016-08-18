@@ -13,4 +13,5 @@ false
 
 El mensaje `==` nos permite comparar dos objetos por _equivalencia_; lo cual se da típicamente cuando los objetos tienen el mismo estado. Y como vemos, puede devolver `true`, aún cuando los dos objetos no sean _el mismo_. 
 
+> Veamos si se entiende: declará una variable `objetosEquivalentes`,  que esté conformada por tres referncias **distintas** a un mismo objeto (¡el que quieras!), pero que sean las tres equivalentes. 
 

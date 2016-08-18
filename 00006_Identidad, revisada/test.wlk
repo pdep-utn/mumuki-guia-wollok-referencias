@@ -10,5 +10,5 @@ test "referenciasRepetidas tiene tamaño 3" {
 
 test "todos los objetos de referenciasRepetidas son el mismo" {
   /*...content...*/
-  assert.that(referenciasRepetidas.all { it => it == referenciasRepetidas.first()  })  
+  assert.that(referenciasRepetidas.all { it => it === referenciasRepetidas.first()  })  
 }

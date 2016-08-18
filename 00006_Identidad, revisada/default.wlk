@@ -1,3 +1,3 @@
-var referenciasRepetidas = [ 
+var referenciasRepetidas = [ 
   //completar acá....
 ]
