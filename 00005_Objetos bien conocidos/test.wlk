@@ -6,10 +6,10 @@ test "abuelaClotilde entiende el mensaje nieto(unNieto)" {
   abuelaClotilde.nieto(alfredo)
 }
 
-test "abuelaClotilde.alimentarNieto() incrementa lo engorda en 1.5" {
+test "abuelaClotilde.alimentarNieto() incrementa lo engorda 3 kg" {
   abuelaClotilde.nieto(alfredo)
   abuelaClotilde.alimentarNieto()
-  assert.equals(71.5, alfredo.peso())
+  assert.equals(73, alfredo.peso())
 }
 
 
