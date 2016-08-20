@@ -2,6 +2,10 @@ test "existe abuelaClotilde" {
   abuelaClotilde
 }
 
+test "abuelaClotilde entiende el mensaje nieto(unNieto)" {
+  abuelaClotilde.nieto(alfredo)
+}
+
 test "abuelaClotilde.alimentarNieto() incrementa lo engorda en 1.5" {
   abuelaClotilde.nieto(alfredo)
   abuelaClotilde.alimentarNieto()
