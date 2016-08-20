@@ -26,8 +26,10 @@ object melisa {
 
 object abuelaClotilde {
   var nieto
+  var vecesAlimento = 0
   
   method alimentarNieto() {
+    vecesAlimento += 1
     nieto.comer(2000)
     nieto.comer(1000)
   }
@@ -38,5 +40,9 @@ object abuelaClotilde {
   
   method nieto() {
     return nieto
+  }
+  
+  method vecesAlimentado(){
+    return vecesAlimento
   }
 }
