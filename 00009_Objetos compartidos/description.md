@@ -16,5 +16,5 @@ object melisa {
 
 > Escribí un programa que inicialice el `novio` de `melisa` y al `nieto` de `abuelaClotilde` de forma que ambas conozcan al mismo objeto (`alfredo`). 
 > 
-> Luego, hacé que la abuela le de de comer 3 a `alfredo`. ¿Qué pasará con `melisa`? ¿Seguirá contenta con el peso de su novio?
+> Luego, hacé que la **abuela** alimente a su nieto 3 veces. ¿Qué pasará con `melisa`? ¿Seguirá contenta con el peso de su novio?
 
