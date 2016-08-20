@@ -10,6 +10,6 @@ object alfredo {
     return peso
   }
   method cantidadDeLlamadas() {
-    return cantidadDeLLamadas
+    return cantidadDeLlamadas
   }
 }
