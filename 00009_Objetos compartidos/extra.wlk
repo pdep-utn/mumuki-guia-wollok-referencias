@@ -13,7 +13,7 @@ object melisa {
   var novio
    
   method novio(unNovio) {
-      unNovio = novio
+      novio = unNovio
   }
   method novio() {
     return novio
@@ -33,7 +33,7 @@ object abuelaClotilde {
   }
   
   method nieto(unNieto) {
-    unNieto = nieto
+    nieto = unNieto
   }
   
   method nieto() {
