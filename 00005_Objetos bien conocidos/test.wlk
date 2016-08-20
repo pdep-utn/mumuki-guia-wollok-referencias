@@ -7,7 +7,7 @@ test "abuelaClotilde entiende el mensaje nieto(unNieto)" {
 }
 
 test "abuelaClotilde no debe inicializar por defecto a su nieto" {
-  assert.throwsExceptionLike(new Exception("Cannot send message comer() to null"),{abuelaClotilde.alimentarNieto()})
+  assert.throwsException({abuelaClotilde.alimentarNieto()})
 }
 
 test "abuelaClotilde.alimentarNieto() incrementa lo engorda 3 kg" {
