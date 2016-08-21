@@ -43,4 +43,15 @@ test "despues de tocar el piano 90 veces, y afinarlo durante 1 hora, no está af
 }
 
 
+test "despues de tocar el piano 90 veces, y afinarlo durante 10 horas, está afinado" {
+  jasmin.piano(pianoFamiliar)  
+  90.times { jasmin.tocar() }
+  lucio.afinar(pianoFamiliar, 10)
+
+  assert.that(pianoFamiliar.estaAfinado())
+}
+
+
+
+
 
