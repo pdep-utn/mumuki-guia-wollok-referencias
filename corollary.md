@@ -9,7 +9,3 @@ Finalmente, en objetos, todo lo que se _parezca_ a una variable es una referenci
 * parámetros de un método
 * atributos de un objeto
 * y el nombre global de un objeto bien conocido
-
-
-
-
