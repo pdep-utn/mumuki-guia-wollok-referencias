@@ -7,9 +7,8 @@ Cerremos con un último problema: Jasmín toca el piano familiar, pero con el us
 > Desarrollá los objetos necesarios para que podamos hacer lo siguiente: 
 > 
 > ```wollok
-> jamin.piano(pianoFamiliar)    //configura al piano de jasmin
+> jamin.piano(pianoFamiliar) //configura al piano de jasmin
 > jamin.tocar()
-> pianoFamiliar.estaAfinado()   //true o false
-> lucio.afinar(pianoFamiliar, 3)//afina al pianoFamiliar
-                              //durante 3 horas
+> pianoFamiliar.estaAfinado() //true o false
+> lucio.afinar(pianoFamiliar, 3)//lo afinadurante 3 horas
 ```
