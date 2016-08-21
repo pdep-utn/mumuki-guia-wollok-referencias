@@ -14,7 +14,7 @@ otroSaludo === otroSaludo //true
 despedida === otroSaludo //true 
 ```
 
-¿Por qué? ¡Simple! Ambas referencias apuntan al mismo objeto. La moraleje es que declarar la variable significa agregar una nueva referencia al objeto existente, en lugar de copiarlo:
+¿Por qué? ¡Simple! Ambas referencias apuntan al mismo objeto. La moraleja es que declarar la variable significa agregar una nueva referencia al objeto existente, en lugar de copiarlo:
 
 <img src="https://github.com/pdep-utn/mumuki-guia-wollok-referencias/raw/master/assets/multiplesReferencias.png" width="300"/>
 
