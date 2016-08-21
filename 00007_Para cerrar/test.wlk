@@ -16,8 +16,8 @@ test "el piano está inicialmente afinado" {
 
 
 test "despues de tocar el piano 21 veces, ya no está afinado" {
-  jamin.piano(pianoFamiliar)  
-  21.times { jamin.tocar() }
+  jasmin.piano(pianoFamiliar)  
+  21.times { jasmin.tocar() }
   assert.notThat(piano.estaAfinado())
 }
 
