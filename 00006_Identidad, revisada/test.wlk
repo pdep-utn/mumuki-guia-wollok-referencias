@@ -1,4 +1,4 @@
-/*[IgnoreContentOnQuery]*/
+/*[]*/
 
 test "existe referenciasRepetidas" {
   /*...content...*/
