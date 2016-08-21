@@ -14,7 +14,6 @@ test "el piano está inicialmente afinado" {
   assert.that(pianoFamiliar.estaAfinado())
 }
 
-
 test "despues de tocar el piano 21 veces, ya no está afinado" {
   jasmin.piano(pianoFamiliar)  
   21.times { jasmin.tocar() }
@@ -50,8 +49,3 @@ test "despues de tocar el piano 90 veces, y afinarlo durante 10 horas, está afi
 
   assert.that(pianoFamiliar.estaAfinado())
 }
-
-
-
-
-
