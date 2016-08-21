@@ -1,3 +1,5 @@
+/*[IgnoreContentOnQuery]*/
+
 test "existe referenciasRepetidas" {
   /*...content...*/
   referenciasRepetidas  
