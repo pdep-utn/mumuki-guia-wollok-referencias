@@ -6,7 +6,7 @@ Cerremos con un último problema: Jasmín toca el piano familiar, pero con el us
 
 > Desarrollá los objetos necesarios para que podamos hacer lo siguiente: 
 > 
-> ```wollok
+> ```javascript
 > //configura al piano de jasmin
 > jamin.piano(pianoFamiliar) 
 > jamin.tocar()
