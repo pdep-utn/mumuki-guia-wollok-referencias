@@ -39,7 +39,7 @@ test "despues de tocar el piano 90 veces, y afinarlo durante 1 hora, no está af
   90.times { jasmin.tocar() }
   lucio.afinar(pianoFamiliar, 1)
 
-  assert.that(pianoFamiliar.estaAfinado())
+  assert.notThat(pianoFamiliar.estaAfinado())
 }
 
 
