@@ -21,4 +21,4 @@ saludo.toUpperCase()
 ...le estamos enviado el mensaje `toUpperCase()` al objeto `"hola"`, a través de la referencia `saludo`, que es una variable. 
 
 
-> Veamos si se entiende hasta acá: creá una variable llamada `despedida` que apunte al objeto `"adios"`, y enviale el mensaje `size()`. 
+> Veamos si se entiende hasta acá: creá una variable llamada `despedida` que apunte al objeto `"adiós"`, y enviale el mensaje `size()`. 

@@ -1,4 +1,4 @@
-test 'despedida apunta a "adios"' {
+test 'despedida apunta a "adiós"' {
   /*...content...*/
-  assert.equals("adios", despedida)
+  assert.equals("adiós", despedida)
 }
