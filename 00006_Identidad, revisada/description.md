@@ -18,4 +18,4 @@ despedida === otroSaludo //true
 
 <img src="https://github.com/pdep-utn/mumuki-guia-wollok-referencias/raw/master/assets/multiplesReferencias.png" width="300"/>
 
-> Veamos si se entiende: declará una variable `referenciasRepetidas`,  que esté conformada por tres referncias a un mismo objeto (¡el que quieras!)
+> Veamos si se entiende: declará una lista `referenciasRepetidas`,  que esté conformada por tres referncias a un mismo objeto (¡el que quieras!)
