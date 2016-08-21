@@ -10,5 +10,5 @@ Cerremos con un último problema: Jasmín toca el piano familiar, pero con el us
 > jamin.piano(pianoFamiliar) //configura al piano de jasmin
 > jamin.tocar()
 > pianoFamiliar.estaAfinado() //true o false
-> lucio.afinar(pianoFamiliar, 3)//lo afinadurante 3 horas
+> lucio.afinar(pianoFamiliar, 3)//lo afina durante 3 horas
 ```
