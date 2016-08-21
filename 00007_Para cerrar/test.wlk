@@ -26,3 +26,21 @@ test "lucio entiende afinar" {
   assert.that(pianoFamiliar.estaAfinado())
 }
 
+test "despues de tocar el piano 21 veces, y afinarlo durante 1 hora, está afinado" {
+  jasmin.piano(pianoFamiliar)  
+  21.times { jasmin.tocar() }
+  lucio.afinar(pianoFamiliar, 1)
+
+  assert.that(pianoFamiliar.estaAfinado())
+}
+
+test "despues de tocar el piano 90 veces, y afinarlo durante 1 hora, no está afinado" {
+  jasmin.piano(pianoFamiliar)  
+  90.times { jasmin.tocar() }
+  lucio.afinar(pianoFamiliar, 1)
+
+  assert.that(pianoFamiliar.estaAfinado())
+}
+
+
+
