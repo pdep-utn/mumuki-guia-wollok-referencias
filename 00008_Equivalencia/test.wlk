@@ -16,5 +16,5 @@ test "todos los objetos de objetosEquivalentes son equivalentes" {
 
 test "no todos los objetos de objetosEquivalentes son el mismo" {
   /*...content...*/
-  assert.that(objetosEquivalentes.any { it => !(it === objetosEquivalentes.first())  })  
+  assert.that(objetosEquivalentes.any { it => ! (it === objetosEquivalentes.first())  })  
 }
