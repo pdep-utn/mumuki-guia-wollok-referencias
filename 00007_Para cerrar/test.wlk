@@ -11,18 +11,18 @@ test "existe el luciano" {
 }
 
 test "el piano está inicialmente afinado" {
-  assert.that(piano.estaAfinado())
+  assert.that(pianoFamiliar.estaAfinado())
 }
 
 
 test "despues de tocar el piano 21 veces, ya no está afinado" {
   jasmin.piano(pianoFamiliar)  
   21.times { jasmin.tocar() }
-  assert.notThat(piano.estaAfinado())
+  assert.notThat(pianoFamiliar.estaAfinado())
 }
 
 test "lucio entiende afinar" {
   lucio.afinar(pianoFamiliar, 3)
-  assert.that(piano.estaAfinado())
+  assert.that(pianoFamiliar.estaAfinado())
 }
 
