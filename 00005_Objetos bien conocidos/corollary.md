@@ -6,8 +6,12 @@ _enviar el mensaje `toUpperCase` al objeto `"hola"` a través de la referencia  
 
 _enviar un mensaje a la variable `saludo`_
 
-...o incluso...
+...ó...
 
 _enviar un mensaje al objeto `saludo`_
+
+...o simplemente...
+
+_enviar un mensaje a `saludo`_
 
 ...porque si bien no es del todo correcto, es más breve :sweat_smile:. Lo importante es que entiendas que *siempre* estamos enviando el mensaje al objeto a través de una referencia. 
