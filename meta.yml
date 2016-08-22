@@ -3,9 +3,9 @@ name: Referencias
 locale: es
 type: learning
 beta: false
-teacher_info: |
-  * Tipos de referncias
-  * Objetos compartidos
+teacher_info: "* Tipos de referncias\n* Objetos compartidos\n* Se podría agregar más
+  sobre: \n  * Garbage collecion\n  * Listas funcionales vs imperativas\n  * objetos
+  anónimos"
 language: wollok
 id_format: '%05d'
 order:
