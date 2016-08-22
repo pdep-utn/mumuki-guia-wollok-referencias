@@ -6,7 +6,7 @@ test "existe el jasmin" {
   pianoFamiliar
 }
 
-test "existe el luciano" {
+test "existe el lucio" {
   pianoFamiliar
 }
 
