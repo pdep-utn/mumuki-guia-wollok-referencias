@@ -2,22 +2,22 @@
 
 /*...extra...*/
 
-test "el nieto de abuelaClotilde es alfredo" {
+test "el nieto de abuelaClotilde es fito" {
  /*...content...*/
- assert.that(abuelaClotilde.nieto() === alfredo)
+ assert.that(abuelaClotilde.nieto() === fito)
 }
 
-test "el novio de melisa es alfredo" {
+test "el novio de melisa es fito" {
   /*...content...*/
- assert.that(melisa.novio() === alfredo)
+ assert.that(melisa.novio() === fito)
 }
 
-test "alfredo engordó" {
+test "fito engordó" {
   /*...content...*/
- assert.that(alfredo.peso() > 70)
+ assert.that(fito.peso() > 70)
 }
 
-test "abuelaClotilde alimentó 3 veces a alfredo" {
+test "abuelaClotilde alimentó 3 veces a fito" {
  /*...content...*/
  assert.equals(3, abuelaClotilde.vecesAlimentado())
 }

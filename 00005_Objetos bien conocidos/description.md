@@ -1,7 +1,7 @@
 ¿Y que hay de los objetos que veníamos declarando hasta ahora? Por ejemplo: 
 
 ```wollok
-object alfredo {
+object fito {
   var peso = 70 
   method comer(calorias) {
      peso += calorias * 0.001
@@ -12,7 +12,7 @@ object alfredo {
 }
 ```
 
-A objetos como `alfredo` se los conocen como _objetos bien conocidos_: cuando los declaramos no sólo describimos su comportamiento y estado (todo lo que está entre las llaves), sino que además les damos un nombre o etiqueta a través de la cual podemos conocerlos. ¿Te suena conocido?
+A objetos como `fito` se los conocen como _objetos bien conocidos_: cuando los declaramos no sólo describimos su comportamiento y estado (todo lo que está entre las llaves), sino que además les damos un nombre o etiqueta a través de la cual podemos conocerlos. ¿Te suena conocido?
 
 ¡Adiviná! Esas etiquetas también son referencias :tada:. Y son globales, es decir que cualquier objeto otro objeto o programa puede utilizarla. 
 

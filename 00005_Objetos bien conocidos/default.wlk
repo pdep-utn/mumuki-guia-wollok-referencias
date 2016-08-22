@@ -1,2 +1,2 @@
-//nosotros ya declaramos a alfredo por vos 
+//nosotros ya declaramos a fito por vos 
 //desarrollá a la abuela acá...

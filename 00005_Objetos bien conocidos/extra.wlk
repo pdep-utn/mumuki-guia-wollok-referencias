@@ -1,4 +1,4 @@
-object alfredo {
+object fito {
   var peso = 70 
   var cantidadDeLlamadas = 0
   
