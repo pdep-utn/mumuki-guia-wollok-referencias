@@ -1,1 +1,1 @@
-Evidentemente [la afinación de pianos](https://es.wikipedia.org/wiki/Afinaci%C3%B3n_del_piano) es un poco más compleja que eso :stuck_out_tongue:
+Evidentemente [la afinación de pianos](https://es.wikipedia.org/wiki/Afinaci%C3%B3n_del_piano) es un poco más compleja que ese :stuck_out_tongue:
