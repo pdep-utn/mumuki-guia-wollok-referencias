@@ -1,4 +1,4 @@
-Hasta ahora, en objetos, un programa es simplemente una secuencia de envíos de mensajes. Por ejemplo, éste es un programa que convierte en maýsuculas al string `"hola"`. 
+Hasta ahora, en objetos, un programa es simplemente una secuencia de envíos de mensajes. Por ejemplo, éste es un programa que convierte en mayúsculas al string `"hola"`. 
 
 ```wollok
 "hola".toUpperCase() //devuelve "HOLA"
