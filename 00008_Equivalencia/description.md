@@ -1,6 +1,6 @@
 ¿Y qué pasa si lo que quiero es comparar los objetos no por su identidad, sino por que representen la misma cosa?
 
-Es decir, ¿hay forma de saber, si por ejemplos, dos strings representan la misma secuencia de carateres más allá de que no sean el mismo objeto? ¡Por supuesto que la hay! Y no deberia sorprendernos a esta altura que se trate de otro mensaje: 
+Es decir, ¿hay forma de saber, si por ejemplos, dos strings representan la misma secuencia de carateres más allá de que no sean el mismo objeto? ¡Por supuesto que la hay! Y no debería sorprendernos a esta altura que se trate de otro mensaje: 
 
 ```wollok
 ム "hola" == "hola"
