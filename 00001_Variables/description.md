@@ -4,7 +4,7 @@ Hasta ahora, en objetos, un programa es simplemente una secuencia de envíos de 
 "hola".toUpperCase() //devuelve "HOLA"
 ```
 
-Sin embargo, podemos hacer algo más: declarar variables. Por ejemplo, podemos declarar una variable `saludo`, incializarla con `"hola"`, enviarle mensajes...
+Sin embargo, podemos hacer algo más: declarar variables. Por ejemplo, podemos declarar una variable `saludo`, inicializarla con `"hola"`, enviarle mensajes...
 
 ```wollok
 var saludo = "hola"
