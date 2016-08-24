@@ -7,7 +7,7 @@ test "existe jasmin" {
 }
 
 test "existe lucio" {
-  luciano
+  lucio
 }
 
 test "el piano está inicialmente afinado" {
