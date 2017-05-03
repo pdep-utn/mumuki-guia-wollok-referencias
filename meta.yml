@@ -7,7 +7,7 @@ teacher_info: "* Tipos de referncias\n* Objetos compartidos\n* Se podría agrega
   sobre: \n  * Garbage collecion\n  * Listas funcionales vs imperativas\n  * objetos
   anónimos"
 language: wollok
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 1
 - 3
